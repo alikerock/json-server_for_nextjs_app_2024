@@ -1,1 +1,1 @@
-web: npm run server
+web: npx json-server --watch db.json --port 9999
